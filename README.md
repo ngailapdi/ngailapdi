@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🐜
 
 - 💻 CS PhD student at Georgia Tech
 - 🔭 Currently working on developmentally inspired vision problems
