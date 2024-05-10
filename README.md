@@ -1,11 +1,7 @@
 ### Hi there 🐜
 
-- 💻 CS PhD student at Georgia Tech
-- 🔭 Currently working on developmentally inspired vision problems
-- 😁 Fun facts:
-  + 🇻🇳
-  + 🎸🎧🎹🎼📸🎞
-  + 🐶🐱
+- CS PhD student at Georgia Tech
+- **I'm currently looking for full-time research scientist/engineer opportunities. Please feel free to contact me if you think I might be a good fit.**
 <!--
 **ngailapdi/ngailapdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
